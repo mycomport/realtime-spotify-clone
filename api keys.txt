@@ -1,0 +1,30 @@
+git remote add origin https://github.com/mycomport/salesforceCustomApps.git
+git branch -M main
+git push -u origin main
+
+Cloud name:
+dy8txidns
+
+API key
+896234785548225
+
+API secret: u93YyjjcvpBpq1Je659ZTsIwNPc
+
+
+API environment variable
+CLOUDINARY_URL=cloudinary://896234785548225:**********@dy8txidns
+CLOUDINARY_URL=cloudinary://896234785548225:u93YyjjcvpBpq1Je659ZTsIwNPc@dy8txidns
+
+VITE_CLERK_PUBLISHABLE_KEY=pk_test_aW1wcm92ZWQtYnVubnktMS5jbGVyay5hY2NvdW50cy5kZXYk
+
+VITE_CLERK_PUBLISHABLE_KEY=
+pk_test_ZG9taW5hbnQtcGVhY29jay04Mi5jbGVyay5hY2NvdW50cy5kZXYk
+sk_test_iFxNMplbTjCO2Bo79n6RCcG0QNEb1WV3a2dN9Ok2yd
+
+node src/index.js
+
+
+
+https://dashboard.clerk.com/
+mycomport@yahoo.ca
+Willbedone2025!

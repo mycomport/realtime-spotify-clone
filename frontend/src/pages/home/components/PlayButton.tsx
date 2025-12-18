@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { usePlayerStore } from "@/stores/usePlayerStore";
-import { Song } from "@/types";
+import type { Song } from "@/types";
 import { Pause, Play } from "lucide-react";
 
 const PlayButton = ({ song }: { song: Song }) => {
@@ -11,8 +11,7 @@ const PlayButton = ({ song }: { song: Song }) => {
 		if (isCurrentSong) togglePlay();
 		else setCurrentSong(song);
 	};
-
-	return (
+return (
 		<Button
 			size={"icon"}
 			onClick={handlePlay}
