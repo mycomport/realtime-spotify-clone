@@ -1,7 +1,7 @@
 {
 	"name": "spotify-clone",
 	"version": "1.0.0",
-	"description": "",
+	"description": "<h1 align=\"center\">Realtime Spotify Application ✨</h1>",
 	"main": "index.js",
 	"scripts": {
 		"build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
@@ -19,5 +19,14 @@
 	},
 	"dependencies": {
 		"@vitejs/plugin-react": "^5.1.1"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mycomport/realtime-spotify-clone.git"
+	},
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/mycomport/realtime-spotify-clone/issues"
+	},
+	"homepage": "https://github.com/mycomport/realtime-spotify-clone#readme"
 }
